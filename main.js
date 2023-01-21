@@ -1,4 +1,3 @@
-
 origArray=[2, 3, 4];
 
 document.addEventListener("DOMContentLoaded", function(event) {
